@@ -1,0 +1,21 @@
+.titulo-1{
+    color: blueviolet;
+    background-color: pink;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/936/418/original/female-chef-cutting-carrot-vegetable-cooking-in-kitchen-cartoon-vector.jpg);
+   background-size:cover; 
+}
+.boton{
+    background-color: pink;
+}
+.boton{
+    color: blueviolet;
+}
+.titulo-2{
+    color: rgb(20, 10, 2);
+    background-color: palevioletred;
+}
+tr{
+    background-color: pink;
+}
